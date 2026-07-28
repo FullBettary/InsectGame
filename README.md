@@ -6,6 +6,10 @@
 
 ##### Yor target survive as long as possible and kill as much as possible insect
 
+<p align="center">
+  <img src="screenshots/anim.gif" width="600" alt="Demo">
+</p>
+
 ---
 ## Game screenshots
 
