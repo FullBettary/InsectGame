@@ -8,11 +8,20 @@
 
 ---
 ## Game screenshots
-<p align="center">
-<image src="screenshots/main_menu.png" width="500", height="500">
-<image src="screenshots/info.png" width="500", height="500">
-<image src="screenshots/game process.png" width="500", height="500">
-</p>
+
+<table align="center" style="border-spacing: 20px;">
+  <tr>
+    <td align="center">
+      <img src="screenshots/main_menu.png" width="500" height="500">
+    </td>
+    <td align="center">
+      <img src="screenshots/info.png" width="500" height="500">
+    </td>
+    <td align="center">
+      <img src="screenshots/game process.png" width="500" height="500">
+    </td>
+  </tr>
+</table>
 
 ---
 
