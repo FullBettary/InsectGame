@@ -24,7 +24,7 @@ def info_menu(main_sf):
 
     font = pg.font.Font(None, 50)
 
-    control_t = font.render("CONTROL . . . . . W/A/S/D adn MOUSE", True, PASSIVE_FONT)
+    control_t = font.render("CONTROL . . . . . W/A/S/D and MOUSE", True, PASSIVE_FONT)
     control_rect = control_t.get_rect(topleft=(200, 200))
     surface.blit(control_t, control_rect)
 
