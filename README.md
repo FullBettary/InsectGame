@@ -12,13 +12,13 @@
 <table align="center" style="border-spacing: 20px;">
   <tr>
     <td align="center">
-      <img src="screenshots/main_menu.png" width="500" height="500">
+      <img src="screenshots/main_menu.png" width="1024" height="1024">
     </td>
     <td align="center">
-      <img src="screenshots/info.png" width="500" height="500">
+      <img src="screenshots/info.png" width="1024" height="1024">
     </td>
     <td align="center">
-      <img src="screenshots/game process.png" width="500" height="500">
+      <img src="screenshots/game process.png" width="1024" height="1024">
     </td>
   </tr>
 </table>
